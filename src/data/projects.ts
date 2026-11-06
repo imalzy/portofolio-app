@@ -188,6 +188,7 @@ export const projects: ProjectItem[] = [
       'Figma-to-Code',
     ],
     featured: true,
+    liveUrl: 'https://wm-app-dev.tncdigital.id/',
     displayOrder: 3,
     status: 'Production',
     caseStudy: {
@@ -271,6 +272,7 @@ export const projects: ProjectItem[] = [
     ],
     featured: true,
     displayOrder: 4,
+    liveUrl: 'https://pwa-ledger-one.pages.dev',
     status: 'Production',
     caseStudy: {
       overview:
@@ -413,6 +415,7 @@ export const projects: ProjectItem[] = [
     featured: false,
     displayOrder: 6,
     status: 'Live',
+    liveUrl: 'https://web.telegram.org/a/#7871574354',
     caseStudy: {
       overview:
         'Medly AI is a conversational productivity tool accessible via Telegram. The backend handles real-time user commands, routes prompts to specialized AI models, and returns structured responses with low latency.',
